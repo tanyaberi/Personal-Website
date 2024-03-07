@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: d94a5c39-75e8-4c96-a63a-70202304353a
+      url: 'tanyaberi.netlify.app'
