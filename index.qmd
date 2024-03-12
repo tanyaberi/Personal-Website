@@ -1,6 +1,24 @@
 ---
-toc: false
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      url: https://www.linkedin.com/in/tanya-beri
+    - icon: github
+      text: GitHub
+      url: https://www.linkedin.com
+    - icon: inbox-fill
+      text: Email
+      url: 'mailto:tanyaberi@ucla.edu'
+        
+image: profile_pic.jpg
 ---
 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## About Me 
+
+Hi, my name is Tanya Beri! I'm a third-year undergrad at UCLA majoring in Statistics and Data Science and minoring in Mathematics. 
+
+Attached is my current CV: [CV](cv.pdf "CV")
+

@@ -1,2 +1,16 @@
 
-Demonstrate projects here.
+# Projects 
+
+## Carbon Dioxide Emissions Model Project
+
+- Used carbon dioxide emissions data to forecast CO_2 emissions based on a country's economic growth indicators 
+- Used random forest classifier for feature selection and KNN algorithm to develop classification model
+
+## Linear Regression with Sleep Data
+
+- Used linear regression and feature selection in R to determine which factors affect sleep quality
+
+## UCSC Data Science Research Intern
+
+- Worked with pancreatic cancer data to determine accuracy of RNA splicing tool
+- Used PCA plots to compare normal and tumor data samples 
