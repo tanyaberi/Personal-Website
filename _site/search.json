@@ -9,28 +9,28 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects",
+    "title": "Projects and Experience",
     "section": "",
     "text": "Used carbon dioxide emissions data to forecast CO_2 emissions based on a country’s economic growth indicators\nUsed random forest classifier for feature selection and KNN algorithm to develop classification model\n\n\n\n\n\nUsed linear regression and feature selection in R to determine which factors affect sleep quality\n\n\n\n\n\nWorked with pancreatic cancer data to determine accuracy of RNA splicing tool\nUsed PCA plots to compare normal and tumor data samples"
   },
   {
     "objectID": "projects.html#carbon-dioxide-emissions-model-project",
     "href": "projects.html#carbon-dioxide-emissions-model-project",
-    "title": "Projects",
+    "title": "Projects and Experience",
     "section": "",
     "text": "Used carbon dioxide emissions data to forecast CO_2 emissions based on a country’s economic growth indicators\nUsed random forest classifier for feature selection and KNN algorithm to develop classification model"
   },
   {
     "objectID": "projects.html#linear-regression-with-sleep-data",
     "href": "projects.html#linear-regression-with-sleep-data",
-    "title": "Projects",
+    "title": "Projects and Experience",
     "section": "",
     "text": "Used linear regression and feature selection in R to determine which factors affect sleep quality"
   },
   {
     "objectID": "projects.html#ucsc-data-science-research-intern",
     "href": "projects.html#ucsc-data-science-research-intern",
-    "title": "Projects",
+    "title": "Projects and Experience",
     "section": "",
     "text": "Worked with pancreatic cancer data to determine accuracy of RNA splicing tool\nUsed PCA plots to compare normal and tumor data samples"
   },

@@ -8,7 +8,7 @@ website:
       - href: index.qmd
         text: Home
       - href: projects.qmd
-        text: Projects and Experience
+        text: Projects
         
   page-footer:
     right: "&copy; 2024, Tanya Beri"
