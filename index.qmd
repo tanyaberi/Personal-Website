@@ -7,7 +7,7 @@ about:
       url: https://www.linkedin.com/in/tanya-beri
     - icon: github
       text: GitHub
-      url: https://github.com/tanyaberi/Personal-Website.git
+      url: https://github.com/tanyaberi
     - icon: inbox-fill
       text: Email
       url: 'mailto:tanyaberi@ucla.edu'
